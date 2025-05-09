@@ -1,21 +1,22 @@
-## Hello, I'm Kadir Acaroglu! 👋
+## Hello, I'm Kadir Acaroglu!
 
-I'm a computer science student with a strong interest in back-end development and web development, but I do various projects motivated by my academic curriculum and my personal curiosity.
+I'm a computer science student passionate about cybersecurity, game development, and web development. I pursue various projects driven by my academic curriculum and my personal curiosity.
 
-- Languages:
-  - Java (7/10)
-  - C (4/10)
-  - Dart + Flutter (Currently learning)
-  - JavaScript (6/10)
-    
-- I'm currently working on:
-  - Learning Dart and flutter to create mobile applications
-  - Learning Node.js to expand my back-end development skills
+### Languages & Skills:
+  - **Proficient:** C#, Java
+  - **Comfortable:** Python, JavaScript
+  - **Learning:** C, Dart + Flutter
+  - **Other Skills:** HTML/CSS, Docker, MySQL, Postman, Blender scripting, cybersecurity/network concepts with Python implementations
 
-- Fun Facts:
-  - I create 3D characters/animations and work on Blender-related content as a hobby.
-  - I should probably drink less coffee and watch less anime. :)
+### I'm currently working on:
+  - Learning Dart and Flutter to build mobile applications
+  - Exploring Node.js and React.js to expand my back-end development knowledge
+  - Writing Python for Blender add-ons and functional everyday tools
 
-You can contact me anytime on acaroglugoktan@gmail.com!
+### About me:
+  - Documentation, YouTube and websites like StackOverflow are my go-tos. AI is only there for me to scream at when I'm frustrated, when I'm reading someone else's code or when I'm **utterly** clueless, which doesn't happen *too* often.
+  - I create 3D characters and animations using Blender as a hobby and plan to integrate Python into this process.
+  - I should probably drink less coffee and/or energy drinks. :)
 
+Reach me at: [acaroglugoktan[at]gmail.com](mailto:acaroglugoktan@gmail.com)
 # Thank you for visiting my profile!
